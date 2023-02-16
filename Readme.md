@@ -7,7 +7,7 @@ We are challenging ourselves to get into tech through data anslytics. This was c
 
 
 ## Process:
-- Fork[https://github.com/LondheShubham153/90DaysOfDevOps/fork] the Repo.
+- Fork[https://github.com/Bandolo/90DaysOfAnalytics/fork] the Repo.
 - Everyday add your learnings in the folder corresponding to each day.
 - Check in with others to see how they are making progress and help/learn from them.
 - Showcase your learnings on LinkedIn / Twitter/ Discord
