@@ -17,7 +17,7 @@ We are challenging ourselves to get into tech through data anslytics. This was c
 Below are the community Links.
 
 - YouTube Channel: https://www.youtube.com/@datasciencewithcyril
-- Discord Channel: https://discord.com/invite/akXhAFpyT5
+- Discord Channel: https://discord.gg/YkjPNFyA
 - WhatsApp Group: https://chat.whatsapp.com/Jn6iCIr11Iq7ZNgxSiZbAH
 - LinkedIn: https://www.linkedin.com/in/cyrilbandolo/
 - Twitter: https://twitter.com/BandoloCyril
