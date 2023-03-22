@@ -25,8 +25,8 @@ Below are the community Links.
 
 ## Events and webinars
 
-YouTube Challenge Plasylist:
-TBA
+YouTube Challenge Playlist:
+https://www.youtube.com/watch?v=IwhRkSfxMPM&list=PLlBN6LjOCNSiYKTpkgpTtb4n63R9ItWZB
 
 Upcoming webinar:
 TBA
