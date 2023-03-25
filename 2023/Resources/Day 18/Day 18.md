@@ -8,4 +8,4 @@ Link to the YouTube Recording 1 :
 
 
 Link to the YouTube Recording 2 :
-  [Day 18 - 90 days of Analytics: Day 5 - 90 days of Analytics: Excel Statistics Functions](https://www.youtube.com/watch?v=KMhfhPylSFo)
+  [Day 18 - 90 days of Analytics: Excel Statistics Functions](https://www.youtube.com/watch?v=KMhfhPylSFo)
