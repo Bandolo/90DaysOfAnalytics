@@ -1,0 +1,13 @@
+day,shop,visitors,units_sold,weather
+1/1/2023,shop1,32,6,Rain
+1/2/2023,shop1,36,7,Sunny
+1/3/2023,shop1,28,12,Snow
+1/4/2023,shop1,33,7,Sunny
+1/1/2023,shop2,90,5,Sunny
+1/2/2023,shop2,85,12,Cloudy
+1/3/2023,shop2,87,15,Cloudy
+1/4/2023,shop2,92,5,Rain
+1/1/2023,shop3,45,20,Sunny
+1/2/2023,shop3,50,13,Cloudy
+1/3/2023,shop3,54,8,Cloudy
+1/4/2023,shop3,42,10,Cloudy
