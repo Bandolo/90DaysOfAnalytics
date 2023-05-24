@@ -1,8 +1,8 @@
-# Day 80 - 90 days of Analytics
+# Day 81 - 90 days of Analytics
 
 
 
 Link to the YouTube Recording:
-  [Day 80 - 90 days of Analytics: Pandas with SQL](https://youtu.be/9wDCrLNs0hE)
+  [Day 81 - 90 days of Analytics: Matplotlib Basics](https://www.youtube.com/watch?v=tXtceQtdAhg)
 
 
